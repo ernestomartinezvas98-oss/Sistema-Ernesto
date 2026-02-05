@@ -1,5 +1,4 @@
 # Sistema-Ernesto
-Haremos un repositorio con el sistema-Ernesto para seguir aprendiendo.
 
 Nombre: Ernesto
 
@@ -12,3 +11,5 @@ Un listado con 3 cosas nuevas que descubriste sobre GitHub
 3. Puedo poner una descripcion publica en mi proyecto, para que desde el principio vea de que se trata.
 
 
+"Mis expectativas del curso"
+Mis expectativas es aprender mas sobre GitHub ya que es primera vez que lo uso, espero dominarlo y a trabajar en conjunto como se nos planteo.
